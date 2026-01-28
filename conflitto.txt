@@ -1,1 +1,1 @@
-Riga scritta da Feature A
+Riga scritta da Feature A e Feature B (Risolto)
